@@ -1,3 +1,7 @@
+## Forma 1.1.4
+
+* Exposed `Web.Forma.Internal`.
+
 ## Forma 1.1.3
 
 * Test suite passes with `aeson-1.4.6.0`.
